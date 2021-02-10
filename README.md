@@ -1,7 +1,8 @@
 # foothold-design-challenge
 
-Made it a little fast, not really sure what part is been evaluated, so a made a static site
-using a tiny bit of vue3 and vite tooling, all the css where with tailwind guidelines.
+Made it a little fast, not really sure what part is going to be evaluated, so a made a static site
+using a tiny bit of Vue3 and Vite.js tooling, all the CSS where with tailwind guidelines.
+Taking care of responsive design.
 
 Edit some icons from flaticons to give a look a like the video
 
@@ -15,3 +16,6 @@ For build
 ```bash 
   $ npm run build
 ```
+
+Using digital ocean for CI/CD 
+https://foothold-design-challenge-f3vht.ondigitalocean.app/
